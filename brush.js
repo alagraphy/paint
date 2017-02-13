@@ -10,7 +10,7 @@ var Brush = (function () {
     var BRISTLE_JITTER = 0.5;
 
     var ITERATIONS = 20;
-    var GRAVITY = 30.0;
+    var GRAVITY = 60.0; // was 30
     var BRUSH_DAMPING = 0.75;
     var STIFFNESS_VARIATION = 0.3;
 
